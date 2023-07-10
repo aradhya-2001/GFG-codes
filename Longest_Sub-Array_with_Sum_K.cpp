@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 
     // below algo is like leet 713 (Subarray Product Less Than K) - sliding window. This sol is more faster but would work only if the input array had only non -ve nos i.e. 0's or +vs's. 
     // int lenOfLongSubarr(int nums[],  int n, int k) 
